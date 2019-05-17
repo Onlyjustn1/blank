@@ -1,0 +1,67 @@
+/*Nav*/
+header{
+	position:relative;
+	background-color:#1bfaf3; 
+}
+}
+
+nav{
+	position:absolute;
+	top:60px;
+	right:47px;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav li{
+	display:inline-block;
+}
+
+nav a{
+	display:block;
+	padding:10px;
+	border:5px solid #black;
+	border-radius: 5px;
+	color:#532354;
+	text-decoration:none;
+}
+
+nav a:hover{
+	color:#c28825;
+	border:3px solid #c28825;
+}
+body{
+	background-color:#69fad8;
+	
+	
+}
+
+.book
+h1{ 
+    display:flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Zapfino", sans-serif;
+	text-decoration:underline;
+}
+picture{
+	align-items: center;
+	justify-content: center;
+
+}
+p{
+
+	font-family: 'Slabo 27px', sans-serif;
+	font-size:20px;
+}
+/*footer*/
+footer{
+	padding:20px 0px;
+	text-align: center;
+}
+
+footer p{
+	font-size:14px;
+}

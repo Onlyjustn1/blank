@@ -1,0 +1,162 @@
+/*Nav*/
+header{
+	position:relative;
+	background-color:#1bfaf3; 
+}
+}
+
+
+nav{
+	position:absolute;
+	top:60px;
+	right:47px;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav li{
+	display:inline-block;
+}
+
+nav a{
+	display:block;
+	padding:15px;
+	border:5px solid #black;
+	border-radius: 5px;
+	color:#532354;
+	text-decoration:none;
+}
+
+nav a:hover{
+	color:#c28825;
+	border:3px solid #c28825;
+}
+h2{
+margin: center;
+}
+
+body{
+	background:url(../image/up.jpg); 
+	background-visibility: 20%;
+	background-position:center bottom;
+	background-attachment: fixed;
+}
+.Here
+h1{
+display:flex;
+	align-items: center;
+	justify-content: center;
+	font-family: "Apple Chancery", sans-serif;
+	text-decoration:underline;
+}
+
+
+.mic{
+	border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: lightblue;
+}
+.make{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #71ccca;
+}
+.slept{
+	border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #54ecf7;
+
+}
+
+.Lost{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #cf7f6e;
+}
+.top{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #c4fa82;
+}
+
+.col{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #e6e263;
+}
+
+.gege{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #f26a7a;
+}
+.rat{	border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #dba341;
+}
+
+.lowkey{
+		border-style: solid;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 60px;
+  margin-left: 40px;
+  background-color: #d69003;
+}
+
+
+.hunt, h4{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+margin: 0px auto 0px;
+	max-width: 960px;
+	font-family: Arial, sans-serif;
+ background-color:#9fc6e0;
+
+}
+.Content a{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+margin: 0px auto 0px;
+	max-width: 960px;
+	color: #980cf5;
+}
+
+
+	/*footer*/
+footer{
+	padding:20px 0px;
+	text-align: center;
+}
+
+footer p{
+	font-size:14px;
+}
